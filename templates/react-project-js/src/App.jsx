@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import "./App.sass";
+import "./App.scss";
 
 export class App extends React.Component {
   render() {
