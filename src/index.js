@@ -35,7 +35,7 @@ const QUESTIONS = [
     }
   },
   {
-    name: "install-packages",
+    name: "install-packages (package.json)",
     type: "input",
     message: "Install packages (Y/n):",
     validate: (input) => {
